@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/home/tardis1/.dotnet/store/|arch|/|tfm|",
+      "/home/tardis1/.nuget/packages"
+    ]
+  }
+}

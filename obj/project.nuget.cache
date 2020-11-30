@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "+kPYQ/LWxHJqlcsPH3lDC5J2lyTPieh1Kv3Ehq5I9EfuPzRVWZxHiyvtlVIAPTrh6ZmH71sXicMuCMaHUMd+Jw==",
+  "success": true,
+  "projectFilePath": "/home/tardis1/OpenTKNetStandardTut/OpenTKNetStandardTut.csproj",
+  "expectedPackageFiles": [
+    "/home/tardis1/.nuget/packages/microsoft.netcore.platforms/3.1.0/microsoft.netcore.platforms.3.1.0.nupkg.sha512",
+    "/home/tardis1/.nuget/packages/microsoft.win32.registry/4.7.0/microsoft.win32.registry.4.7.0.nupkg.sha512",
+    "/home/tardis1/.nuget/packages/microsoft.win32.systemevents/4.5.0/microsoft.win32.systemevents.4.5.0.nupkg.sha512",
+    "/home/tardis1/.nuget/packages/opentk.netstandard/1.0.5.32/opentk.netstandard.1.0.5.32.nupkg.sha512",
+    "/home/tardis1/.nuget/packages/system.drawing.common/4.5.0/system.drawing.common.4.5.0.nupkg.sha512",
+    "/home/tardis1/.nuget/packages/system.security.accesscontrol/4.7.0/system.security.accesscontrol.4.7.0.nupkg.sha512",
+    "/home/tardis1/.nuget/packages/system.security.principal.windows/4.7.0/system.security.principal.windows.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
