@@ -3,7 +3,17 @@ using OpenTK;
 using OpenTK.Graphics.OpenGL4;
 using System.IO;
 
-namespace GLwin
+//This modern style use of OpenGL4 is copied
+//exactly from Neo Kabuto's tutorial.
+//
+//http://neokabuto.blogspot.com/2013/03/opentk-tutorial-2-drawing-triangle.html
+//
+//I don't have much to put here yet as I haven't studied this style enough to 
+//understand it.
+//It does make use of vl.glsl and fs.glsl in this folder as shaders
+//Apparently, this is the correct new method for drawing in OpenGL4
+
+namespace OpenTKNetStandardTut
 {
     public class WindowModern : GameWindow
     {
